@@ -1,5 +1,5 @@
 checkpoints
 causal_data
-!causal_data/*.py
+!./causal_data/*.py
 __pycache__
 wandb
