@@ -2,5 +2,7 @@ checkpoints
 causal_data/CelebA
 causal_data/flow_noise
 causal_data/pendulum
+!causal_data/CelebA/Anno/
+!causal_data/CelebA/Eval/
 __pycache__
 wandb
