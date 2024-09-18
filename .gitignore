@@ -1,5 +1,6 @@
 checkpoints
-causal_data
-!./causal_data/*.py
+causal_data/CelebA
+causal_data/flow_noise
+causal_data/pendulum
 __pycache__
 wandb
